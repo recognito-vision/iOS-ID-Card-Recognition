@@ -15,12 +15,12 @@
 https://github.com/user-attachments/assets/c961b9ed-71a3-45d9-86cd-d91725cb802f
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e76713ec-db4a-499d-ac2d-edff8152fd52" alt="id document recognition ios demo snap 1" width="16%" />
-  <img src="https://github.com/user-attachments/assets/1b357d05-3925-47c1-9135-405427dd9596" alt="id document recognition ios demo snap 2" width="16%" />
-  <img src="https://github.com/user-attachments/assets/3d56c660-c569-48c9-9ab5-66f106d096a8" alt="id document recognition ios demo snap 3" width="16%" />
-  <img src="https://github.com/user-attachments/assets/0f7903e5-5ccf-4d24-82dd-ed8985edaccf" alt="id document recognition ios demo snap 4" width="16%" />
-  <img src="https://github.com/user-attachments/assets/549c5db1-05d4-4a09-9f77-daba393ae88f" alt="id document recognition ios demo snap 5" width="16%" />
-  <img src="https://github.com/user-attachments/assets/6d0c8443-617f-4cd2-b4a3-0a99bc908270" alt="id document recognition ios demo snap 6" width="16%" />
+  <img src="https://github.com/user-attachments/assets/89bf22cf-8b64-44ad-898b-f47c007fee1e" alt="id document recognition ios demo snap 1" width="16%" />
+  <img src="https://github.com/user-attachments/assets/374817b9-522c-4d49-8790-eb59ea6d460a" alt="id document recognition ios demo snap 2" width="16%" />
+  <img src="https://github.com/user-attachments/assets/27091a74-2de2-4ddd-8b32-7045a83ba308" alt="id document recognition ios demo snap 3" width="16%" />
+  <img src="https://github.com/user-attachments/assets/9ec447c5-39cd-44d4-9b5a-c0d360ad60cc" alt="id document recognition ios demo snap 4" width="16%" />
+  <img src="https://github.com/user-attachments/assets/7e7948a4-dd2f-4fe2-aa61-43fd7577355a" alt="id document recognition ios demo snap 5" width="16%" />
+  <img src="https://github.com/user-attachments/assets/72264335-77ec-4997-874d-47af8e9ad08b" alt="id document recognition ios demo snap 6" width="16%" />
 </p>
 
 This repository contains a demonstration of Recognito's ID document recognition SDK for iOS. 
