@@ -1,2 +1,2 @@
-Download link: https://drive.google.com/file/d/1RWsTfdPXHmfhlo0cHIlKSRoUU9u69Vt4/view?usp=drive_link
+Download link: https://www.dropbox.com/scl/fi/c8fru8brv2i1wjb1mqm6a/IDCardRecognition-iOS.zip?rlkey=26peiejtgnxj4wd3dy3x7oi06&st=bud5u67u&dl=0
 Documentation: https://docs.recognito.vision/id-document-recognition-sdk/integration-guide/ios/sample-application
