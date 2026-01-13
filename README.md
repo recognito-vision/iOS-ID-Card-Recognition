@@ -42,7 +42,7 @@ RECOGNITO ID Document Recognition SDK is covering 14,000+ identity documents fro
 ## <img src="https://github.com/recognito-vision/Android-FaceRecognition-FaceLivenessDetection/assets/153883841/05f9ac6c-1224-46a9-8c74-04b8f8cfe5ab" alt="face recognition, liveness detection android SDK API" width="25">  Run Demo
 To use the Recognito SDK in your iOS project, follow these steps:
 #### 1. Download Demo Source 
-- [**IDCardRecognition-iOS.zip**](https://drive.google.com/file/d/1RWsTfdPXHmfhlo0cHIlKSRoUU9u69Vt4/view?usp=drive_link)
+- [**IDCardRecognition-iOS.zip**](https://www.dropbox.com/scl/fi/c8fru8brv2i1wjb1mqm6a/IDCardRecognition-iOS.zip?rlkey=26peiejtgnxj4wd3dy3x7oi06&st=bud5u67u&dl=0)
 
 #### 2. Application License (One-Time License)
 - For trial license, share your bundle ID.
